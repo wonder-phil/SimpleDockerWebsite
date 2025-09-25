@@ -1,4 +1,4 @@
-FROM node:12
+FROM node:24.8.0
 
 LABEL pgb_node=PGB-website
 # Create app directory
