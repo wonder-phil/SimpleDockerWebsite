@@ -1,6 +1,6 @@
 FROM node:12
 
-LABEL pgb_node phillip.bradford@uconn.edu
+LABEL pgb_node=PGB-website
 # Create app directory
 WORKDIR /usr/src/app
 
