@@ -9,7 +9,6 @@ Test before you launch the docker instance: <br/>
 Host> cd SimpleDockerWebsite <br/>
 Host> npm install <br/>
 Host> node index.js   <br/>  <br/>
-
 Host> node index.js   <br/>  <br/>
 Verify it works on Ubuntu instance 
 ---
